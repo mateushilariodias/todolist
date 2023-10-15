@@ -10,3 +10,5 @@ O projeto foi iniciado no site https://start.spring.io/
 }
 
 localhost:8080/h2-console
+
+projeto não finalizado
